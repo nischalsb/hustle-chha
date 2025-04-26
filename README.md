@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 # AI-Powered Productivity App
 
 A modern web application that helps you manage your tasks based on your energy levels and mood. The app provides AI-powered task recommendations to maximize your productivity.
@@ -67,7 +67,3 @@ MIT
 
 - Inspired by productivity techniques like the Eisenhower Matrix and Pomodoro Technique
 - Uses modern React best practices
-=======
-# hustle-chha
-AI Productivity App
->>>>>>> b365927f745035e013f2f4c99163a98f514ae4cd
